@@ -26,6 +26,7 @@ RegisterNumber:
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: RAKSHITHA DEVI
 RegisterNumber: 21005572
+```
 import numpy as np
 n = int(input())
 a = np.zeros((n,n+1))
@@ -48,6 +49,7 @@ for i in range(n-2,-1,-1):
     X[i] = X[i]/a[i][i]
 for i in range(n):
     print('X%d = %0.2f' %(i,X[i]), end = ' ')
+```
 */
 
 ## Output:
