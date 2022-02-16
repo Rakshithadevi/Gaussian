@@ -18,8 +18,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Developed by: RAKSHITHA DEVI.J
+RegisterNumber: 21005572
 */
 ```
 
@@ -50,6 +50,8 @@ for i in range(n):
 */
 
 ## Output:
+![image](https://user-images.githubusercontent.com/94165326/154274512-57e0ee24-3663-42ff-a953-f41742563d62.png)
+
 
 
 
