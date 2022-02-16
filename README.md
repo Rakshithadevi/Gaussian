@@ -24,8 +24,8 @@ RegisterNumber:
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: B.Pavizhi
-RegisterNumber: 21500608
+Developed by: RAKSHITHA DEVI
+RegisterNumber: 21005572
 import numpy as np
 n = int(input())
 a = np.zeros((n,n+1))
