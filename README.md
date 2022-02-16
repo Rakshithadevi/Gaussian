@@ -22,10 +22,7 @@ Developed by:
 RegisterNumber: 
 */
 ```
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: RAKSHITHA DEVI
-RegisterNumber: 21005572
+
 ```
 import numpy as np
 n = int(input())
